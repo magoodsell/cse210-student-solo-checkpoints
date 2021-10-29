@@ -1,3 +1,6 @@
+import os
+os.environ['RAYLIB_BIN_PATH'] = r'C:\Users\matth\Documents\School\2021_Fall\02_CSE_210_Programming_with_Classes\CSE_210_code\solo-checkpoints\07-snake'
+
 from game.director import Director
 from game.input_service import InputService
 from game.output_service import OutputService

@@ -39,4 +39,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your name and email here
+* # TODO: Matthew Goodsell - goo15004@byui.edu

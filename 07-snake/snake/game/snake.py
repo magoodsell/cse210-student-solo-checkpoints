@@ -90,7 +90,7 @@ class Snake:
             direction (Point): The direction to move.
         """
         head = self.get_head()
-        head.set_velocity(direction)
+        head.set_velocity(direction) 
 
 
     def move(self):
